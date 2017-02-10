@@ -28,7 +28,7 @@ Menu icons
 
 Take a photo / on the map
 - <img src="https://rawgithub.com/RailwayStations/RSAssets/master/icons/ic_photo_camera_black_24px.svg" height="32"> photo
-- <img src="https://rawgithub.com/RailwayStations/RSAssets/master/icons/_ic_photo_camera_off_24px.svg" height="32"> photo (disabled)
+- <img src="https://rawgithub.com/RailwayStations/RSAssets/master/icons/_ic_photo_camera_black_off_24px.svg" height="32"><img src="https://rawgithub.com/RailwayStations/RSAssets/master/icons/_ic_photo_camera_red_off_24px.svg" height="32"> photo (disabled)
 - <img src="https://rawgithub.com/RailwayStations/RSAssets/master/icons/ic_gps_fixed_black_24px.svg" height="32"> track GPS (on)
 - <img src="https://rawgithub.com/RailwayStations/RSAssets/master/icons/ic_gps_off_black_24px.svg" height="32"> track GPS (off)
 - <img src="https://rawgithub.com/RailwayStations/RSAssets/master/icons/ic_directions_black_24px.svg" height="32"> route me
